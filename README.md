@@ -6,7 +6,7 @@ Tested up to: 6.6
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv3
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Let users summon an LLM agent in BuddyPress by mentioning a chosen bot user (e.g., @grok). The bot posts a threaded reply with an LLM-generated answer.
 
